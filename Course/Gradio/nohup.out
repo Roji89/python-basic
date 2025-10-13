@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/home/roja/learn/python-basic/Course/Gradio/image.py", line 2, in <module>
+    from transformers import BlipProcessor, BlipForConditionalGeneration
+ModuleNotFoundError: No module named 'transformers'
+Traceback (most recent call last):
+  File "/home/roja/learn/python-basic/Course/Gradio/image.py", line 2, in <module>
+    from transformers import BlipProcessor, BlipForConditionalGeneration
+ModuleNotFoundError: No module named 'transformers'
+Traceback (most recent call last):
+  File "/home/roja/learn/python-basic/Course/Gradio/image.py", line 36, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+Traceback (most recent call last):
+  File "/home/roja/learn/python-basic/Course/Gradio/image.py", line 36, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
