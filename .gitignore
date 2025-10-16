@@ -35,5 +35,4 @@ wheels/
 .DS_Store
 Thumbs.db
 
-.downloadPhoto.py
-.photos
+downloadPhoto.py
