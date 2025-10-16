@@ -34,3 +34,6 @@ wheels/
 # OS
 .DS_Store
 Thumbs.db
+
+.downloadPhoto.py
+.photos
